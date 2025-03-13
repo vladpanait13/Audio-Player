@@ -2,6 +2,6 @@
 
 A simple Audio-Player created with HTML, CSS and JavaScript
 
-## Screenshot
+## 📸 Screenshots  
 
 ![Hero Icon](assets/Hero.png)
